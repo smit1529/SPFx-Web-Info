@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "web-info-client-side-solution",
+    "id": "43227ae8-4dd2-4fce-b70e-8d6255c3c14b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/web-info.sppkg"
+  }
+}
